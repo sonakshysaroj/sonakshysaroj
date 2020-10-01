@@ -1,4 +1,4 @@
-# Hi there, I'm Sonakshy 👋
+# Hi there, I'm Sonakshy👋
 
 ## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@iam_ankush_09-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iam_ankush_09)](https://twitter.com/iam_ankush_09) 
